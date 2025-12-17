@@ -12,7 +12,7 @@ Estaré encantado de que nos conozcamos y compartamos un cibercafé ☕🙂
 
 ## Contacto
 
-<li> 📧 <mailto:kilirguez@gmail.com><br></li>
+<li> 📧 <a href="mailto:kilirguez@gmail.com">kilirguez@gmail.com</a><br></li>
 <li>🌐 <a href="imhunteridk.info">Mi Portafolio</li>
 <li>☕ ׂ<a href="https://buymeacoffee.com/kilianomar">BuyMeaCoffee</li>
 
