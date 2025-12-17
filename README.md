@@ -2,7 +2,7 @@
 
 Soy desarrollador especializado en creación de **páginas web**, con una fuerte pasión por la tecnología, la informática y el diseño bien hecho. Me gusta crear proyectos donde cada detalle tenga sentido y las soluciones sean claras, eficientes y funcionales.
 
-Empecé a programar a los 17 años y desde entonces el aprendizaje continuo forma parte de mi día a día. Además del desarrollo, disfruto la música, el mantenimiento y reparación de PCs, y todo lo relacionado con entender y optimizar la tecnología desde dentro.
+Empecé a estudiar informática a los 16 años y desde entonces el aprendizaje continuo forma parte de mi día a día. Además del desarrollo, disfruto la música, el mantenimiento y reparación de PCs, y todo lo relacionado con entender y optimizar la tecnología desde dentro.
 
 Si buscas a alguien con actitud positiva, profesionalidad y una buena dosis de creatividad, puedes contar conmigo.
 Estaré encantado de que nos conozcamos y compartamos un cibercafé ☕🙂
