@@ -14,7 +14,7 @@ Estaré encantado de que nos conozcamos y compartamos un cibercafé ☕🙂
 
 <li> 📧 <a href="mailto:kilirguez@gmail.com">kilirguez@gmail.com</a><br></li>
 <li>🌐 <a href="https://imhunteridk.info" target="_blank">Mi Portafolio</li>
-<li>☕ ׂ<a href="https://buymeacoffee.com/kilianomar" target="_blank">BuyMeaCoffee</li>
+
 
 
 
